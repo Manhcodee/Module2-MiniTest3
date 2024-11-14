@@ -51,6 +51,4 @@ public abstract class Material {
 
     public abstract LocalDate getExpiryDate();
 
-    public abstract double getDiscountRate();
-
 }
